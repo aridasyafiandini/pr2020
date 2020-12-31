@@ -1,0 +1,3507 @@
+campesterol	treats	cholesterol
+cholesterol	location_of	insulin
+insulin	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	ezetimibe
+ezetimibe	process_of	type_2_diabetes
+type_2_diabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	type_2_diabetes
+type_2_diabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	type_2_diabetes
+type_2_diabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	type_2_diabetes
+type_2_diabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	retention
+retention	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	excretion
+excretion	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	diabetic_foot_ulcers
+diabetic_foot_ulcers	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	prevents	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	higher_than	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	affects	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	neg_affects	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	stimulates	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	neg_interacts_with	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	augments	bmi
+bmi	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	high_cholesterol
+high_cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	function
+function	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	function
+function	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	function
+function	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	function
+function	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	neg_affects	function
+function	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	obesity
+obesity	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	obesity
+obesity	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	prevents	obesity
+obesity	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	obesity
+obesity	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	satisfaction
+satisfaction	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	men
+men	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	compared_with	hypertension
+hypertension	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	cardiovascular_disease
+cardiovascular_disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	causes	cardiovascular_disease
+cardiovascular_disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	cardiovascular_disease
+cardiovascular_disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	myocardial_infarction
+myocardial_infarction	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	hypoglycemia
+hypoglycemia	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	affect
+affect	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	causes	affect
+affect	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	affect
+affect	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	prediabetes
+prediabetes	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	complications
+complications	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	uses	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	coexists_with	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	associated_with	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	inhibits	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	neg_interacts_with	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	augments	glucose
+glucose	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	diabetes_mellitus
+diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	associated_with	diabetes_mellitus
+diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	diabetes_mellitus
+diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	cardiac_events
+cardiac_events	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	decision
+decision	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	affects	decision
+decision	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	per
+per	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	overweight
+overweight	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	overweight
+overweight	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	compared_with	overweight
+overweight	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	type_2_diabetes_mellitus
+type_2_diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	type_2_diabetes_mellitus
+type_2_diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	treats	type_2_diabetes_mellitus
+type_2_diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	type_2_diabetes_mellitus
+type_2_diabetes_mellitus	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	quality_of_life
+quality_of_life	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	cardiovascular_diseases
+cardiovascular_diseases	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	foot_ulcer
+foot_ulcer	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	affects	nephropathy
+nephropathy	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	neuropathy
+neuropathy	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	retinopathy
+retinopathy	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	coexists_with	retinopathy
+retinopathy	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	hyperglycemia
+hyperglycemia	process_of	diabetes
+
+campesterol	treats	ezetimibe
+ezetimibe	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	glucose_intolerance
+glucose_intolerance	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	uses	proteinuria
+proteinuria	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	proteinuria
+proteinuria	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	interacts_with	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	associations
+associations	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	process_of	association
+association	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	association
+association	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	isa	association
+association	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	predisposes	association
+association	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	neg_affects	association
+association	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	disease
+disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	part_of	disease
+disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	causes	disease
+disease	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	causes	neurodegeneration
+neurodegeneration	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	apoptosis
+apoptosis	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	development
+development	process_of	diabetes
+
+campesterol	treats	cholesterol
+cholesterol	location_of	wound_healing
+wound_healing	process_of	diabetes
+
+acetone	isa	serum
+serum	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	serum
+serum	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	treats	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	treats	diseases
+diseases	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	treats	diseases
+diseases	treats	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	hepatocytes
+hepatocytes	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	mice
+mice	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	mice
+mice	causes	obesity
+obesity	process_of	diabetes
+
+acetone	isa	serum
+serum	part_of	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	serum
+serum	part_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+acetone	coexists_with	quercetin
+quercetin	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	coexists_with	mice
+mice	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	coexists_with	mice
+mice	causes	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	hepatocytes
+hepatocytes	coexists_with	obesity
+obesity	process_of	diabetes
+
+acetone	coexists_with	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	treats	diseases
+diseases	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	mice
+mice	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	coexists_with	mice
+mice	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+acetone	uses	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	interacts_with	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+acetone	treats	diseases
+diseases	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	treats	diseases
+diseases	treats	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	treats	diseases
+diseases	isa	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	neuropathy
+neuropathy	isa	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	sodium
+sodium	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	coexists_with	sodium
+sodium	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	treats	diseases
+diseases	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	part_of	concentration
+concentration	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	part_of	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	neuropathy
+neuropathy	produces	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	treats	blindness
+blindness	process_of	diabetes
+
+acetone	treats	diseases
+diseases	isa	blindness
+blindness	process_of	diabetes
+
+acetone	part_of	condition
+condition	part_of	blindness
+blindness	process_of	diabetes
+
+acetone	location_of	diabetes
+diabetes	location_of	blindness
+blindness	process_of	diabetes
+
+uracil	part_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	process_of	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	treats	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	disrupts	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	affects	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	isa	association
+association	process_of	diabetes
+
+uracil	part_of	tryptophan
+tryptophan	isa	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	part_of	association
+association	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	part_of	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	location_of	association
+association	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	coexists_with	association
+association	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	associated_with	association
+association	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	location_of	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	coexists_with	streptozotocin
+streptozotocin	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	uses	streptozotocin
+streptozotocin	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	interacts_with	streptozotocin
+streptozotocin	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	hypertension
+hypertension	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	process_of	hypertension
+hypertension	process_of	diabetes
+
+uracil	part_of	cells
+cells	treats	hypertension
+hypertension	process_of	diabetes
+
+uracil	part_of	cells
+cells	coexists_with	hypertension
+hypertension	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	process_of	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	tryptophan
+tryptophan	treats	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	methionine
+methionine	treats	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	affects	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	part_of	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	part_of	glucose
+glucose	process_of	diabetes
+
+uracil	compared_with	cytosine
+cytosine	part_of	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	location_of	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	coexists_with	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	associated_with	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	associated_with	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	tryptophan
+tryptophan	compared_with	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	interacts_with	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	diagnoses	glucose
+glucose	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	produces	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	inhibits	glucose
+glucose	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	process_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	process_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	causes	creatinine
+creatinine	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	isa	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	isa	creatinine
+creatinine	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	part_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	part_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	location_of	creatinine
+creatinine	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	anxiety
+anxiety	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	process_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	process_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	process_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	treats	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	causes	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	causes	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	affects	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	isa	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	part_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	part_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	location_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	location_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	cells
+cells	coexists_with	symptoms
+symptoms	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	associated_with	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	uses	symptoms
+symptoms	process_of	diabetes
+
+uracil	part_of	tryptophan
+tryptophan	process_of	diabetes
+
+uracil	part_of	tryptophan
+tryptophan	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	location_of	primary
+primary	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	location_of	primary
+primary	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	process_of	development
+development	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	development
+development	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	neg_affects	development
+development	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	kidney_disease
+kidney_disease	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	treats	dysfunction
+dysfunction	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	causes	dysfunction
+dysfunction	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	part_of	dysfunction
+dysfunction	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	location_of	dysfunction
+dysfunction	process_of	diabetes
+
+uracil	part_of	oxygen
+oxygen	prevents	dysfunction
+dysfunction	process_of	diabetes
+
+uracil	part_of	sars-cov-2
+sars-cov-2	process_of	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	process_of	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	treats	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	disrupts	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	causes	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	affects	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	isa	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	part_of	influenza
+influenza	process_of	diabetes
+
+uracil	location_of	concentration
+concentration	part_of	influenza
+influenza	process_of	diabetes
+
+uracil	part_of	cells
+cells	location_of	influenza
+influenza	process_of	diabetes
+
+caffeic_acid	treats	mice
+mice	process_of	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	affects	mice
+mice	process_of	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	location_of	hesperetin
+hesperetin	process_of	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	location_of	quercetin
+quercetin	process_of	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	treats	mice
+mice	causes	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	affects	mice
+mice	causes	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	treats	mice
+mice	associated_with	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	affects	mice
+mice	associated_with	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	inhibits	association
+association	produces	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	predisposes	obesity
+obesity	process_of	diabetes
+
+caffeic_acid	interacts_with	inhibition
+inhibition	process_of	diabetes
+
+caffeic_acid	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+caffeic_acid	inhibits	association
+association	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+caffeic_acid	interacts_with	inhibition
+inhibition	associated_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+choline	location_of	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+choline	location_of	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+choline	location_of	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+choline	location_of	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+choline	part_of	corn
+corn	process_of	diabetes
+
+choline	location_of	glucose
+glucose	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	treats	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	treats	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	disrupts	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	isa	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	part_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	treats	diabetes
+diabetes	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	diabetes
+diabetes	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	location_of	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+choline	process_of	inflammation
+inflammation	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+ethylene	part_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+ethylene	stimulates	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	process_of	esrd
+esrd	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	neg_affects	esrd
+esrd	process_of	diabetes
+
+ethylene	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+ethylene	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+ethylene	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+ethylene	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+ethylene	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+ethylene	location_of	content
+content	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	process_of	association
+association	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	process_of	association
+association	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	process_of	association
+association	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	process_of	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	treats	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	disrupts	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	causes	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	isa	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	part_of	association
+association	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	part_of	association
+association	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	part_of	association
+association	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	part_of	association
+association	process_of	diabetes
+
+ethylene	part_of	potassium
+potassium	part_of	association
+association	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	location_of	association
+association	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	location_of	association
+association	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	location_of	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	coexists_with	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	associated_with	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	neg_affects	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	interacts_with	association
+association	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	produces	association
+association	process_of	diabetes
+
+ethylene	treats	sars-cov-2
+sars-cov-2	process_of	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+ethylene	stimulates	coronavirus
+coronavirus	process_of	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+ethylene	stimulates	coronavirus
+coronavirus	treats	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+ethylene	treats	sars-cov-2
+sars-cov-2	location_of	chronic_kidney_disease
+chronic_kidney_disease	process_of	diabetes
+
+ethylene	location_of	content
+content	process_of	gestational_diabetes_mellitus
+gestational_diabetes_mellitus	process_of	diabetes
+
+ethylene	location_of	content
+content	process_of	liver_disease
+liver_disease	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	part_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	part_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	part_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	location_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	location_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	location_of	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	uses	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	compared_with	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	compared_with	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	compared_with	streptozotocin
+streptozotocin	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	process_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	treats	sars-cov-2
+sars-cov-2	process_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	location_of	iii
+iii	process_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	process_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	location_of	content
+content	treats	hypertension
+hypertension	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	isa	hypertension
+hypertension	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	part_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	location_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	location_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	location_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	location_of	content
+content	location_of	hypertension
+hypertension	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	coexists_with	hypertension
+hypertension	process_of	diabetes
+
+ethylene	stimulates	mers-cov
+mers-cov	predisposes	hypertension
+hypertension	process_of	diabetes
+
+ethylene	predisposes	exposure
+exposure	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	part_of	chloride
+chloride	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	location_of	chloride
+chloride	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	uses	chloride
+chloride	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	location_of	content
+content	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	part_of	potassium
+potassium	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	process_of	glucose
+glucose	process_of	diabetes
+
+ethylene	part_of	sodium
+sodium	treats	glucose
+glucose	process_of	diabetes
+
+ethylene	location_of	sodium
+sodium	treats	glucose
+glucose	process_of	diabetes
+
+ethylene	uses	sodium
+sodium	treats	glucose
+glucose	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	treats	hypertension
+hypertension	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	treats	hypertension
+hypertension	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	coexists_with	hypertension
+hypertension	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	coexists_with	hypertension
+hypertension	process_of	diabetes
+
+nonadecanoic_acid	coexists_with	oleic_acid
+oleic_acid	isa	glucose
+glucose	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	oleic_acid
+oleic_acid	isa	glucose
+glucose	process_of	diabetes
+
+nonadecanoic_acid	coexists_with	oleic_acid
+oleic_acid	interacts_with	glucose
+glucose	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	oleic_acid
+oleic_acid	interacts_with	glucose
+glucose	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	process_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	process_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	causes	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	causes	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	affects	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	affects	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	part_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	part_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	location_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	location_of	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	coexists_with	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	coexists_with	symptoms
+symptoms	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	saturated_fatty_acid
+saturated_fatty_acid	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	saturated_fatty_acid
+saturated_fatty_acid	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	uses	hypertrophy
+hypertrophy	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	uses	hypertrophy
+hypertrophy	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	part_of	behaviour
+behaviour	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	part_of	behaviour
+behaviour	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	process_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	process_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	treats	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	treats	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	causes	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	causes	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	part_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	part_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	location_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	location_of	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	coexists_with	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	coexists_with	disease
+disease	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	location_of	albino
+albino	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	location_of	albino
+albino	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	treats	obesity
+obesity	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	treats	obesity
+obesity	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	process_of	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	process_of	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	treats	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	treats	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	disrupts	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	disrupts	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	causes	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	causes	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	affects	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	affects	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	part_of	cells
+cells	part_of	synthesis
+synthesis	process_of	diabetes
+
+nonadecanoic_acid	interacts_with	cells
+cells	part_of	synthesis
+synthesis	process_of	diabetes
+
+oleic_acid	location_of	mice
+mice	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	serum
+serum	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	part_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	process_of	ards
+ards	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	treats	ards
+ards	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	causes	ards
+ards	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	ards
+ards	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	process_of	sepsis
+sepsis	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	sepsis
+sepsis	process_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	mice
+mice	causes	obesity
+obesity	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	serum
+serum	part_of	obesity
+obesity	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	location_of	mice
+mice	associated_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	part_of	alanine
+alanine	associated_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	alanine
+alanine	associated_with	obesity
+obesity	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	process_of	diabetes
+
+oleic_acid	uses	distribution
+distribution	treats	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	uses	distribution
+distribution	predisposes	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	process_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	process_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	treats	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	treats	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	process_of	acute_respiratory_distress_syndrome
+acute_respiratory_distress_syndrome	treats	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	location_of	mice
+mice	treats	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	affects	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	affects	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	part_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	part_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	diagnoses	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	diagnoses	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	process_of	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	process_of	association
+association	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	process_of	association
+association	process_of	diabetes
+
+oleic_acid	uses	distribution
+distribution	process_of	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	treats	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	treats	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	causes	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	causes	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	affects	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	affects	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	isa	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	isa	association
+association	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	isa	association
+association	process_of	diabetes
+
+oleic_acid	uses	distribution
+distribution	part_of	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	part_of	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	part_of	association
+association	process_of	diabetes
+
+oleic_acid	isa	glucose
+glucose	location_of	association
+association	process_of	diabetes
+
+oleic_acid	interacts_with	glucose
+glucose	location_of	association
+association	process_of	diabetes
+
+oleic_acid	part_of	cholesterol
+cholesterol	location_of	association
+association	process_of	diabetes
+
+pyruvic_acid	treats	per
+per	process_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	treats	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	streptozotocin
+streptozotocin	disrupts	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	streptozotocin
+streptozotocin	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	associated_with	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	part_of	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	associated_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	prevents	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	predisposes	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	augments	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	occurs_in	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	treats	blindness
+blindness	process_of	diabetes
+
+pyruvic_acid	location_of	diabetes
+diabetes	location_of	blindness
+blindness	process_of	diabetes
+
+quercetin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	disrupts	metabolic_disorders
+metabolic_disorders	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	serum
+serum	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	affects	phosphorylation
+phosphorylation	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	liver
+liver	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	affects	hesperetin
+hesperetin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	part_of	hesperetin
+hesperetin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	apigenin
+apigenin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	disrupts	apigenin
+apigenin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	part_of	apigenin
+apigenin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	epicatechin
+epicatechin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	location_of	epicatechin
+epicatechin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	location_of	humans
+humans	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	location_of	lipogenesis
+lipogenesis	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	part_of	influenza
+influenza	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	location_of	apigenin
+apigenin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	pathogenesis
+pathogenesis	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	disrupts	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	disrupts	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	disrupts	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	causes	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	causes	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	causes	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	oxidative_stress
+oxidative_stress	affects	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	oxidative_stress
+oxidative_stress	affects	obesity
+obesity	process_of	diabetes
+
+quercetin	disrupts	metabolic_disorders
+metabolic_disorders	isa	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	isa	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	isa	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	isa	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	part_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	part_of	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	part_of	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	part_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	serum
+serum	part_of	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	location_of	obesity
+obesity	process_of	diabetes
+
+quercetin	location_of	humans
+humans	location_of	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	coexists_with	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	coexists_with	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	associated_with	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	interacts_with	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	method_of	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	ampk
+ampk	prevents	obesity
+obesity	process_of	diabetes
+
+quercetin	isa	ampk
+ampk	prevents	obesity
+obesity	process_of	diabetes
+
+quercetin	inhibits	ampk
+ampk	prevents	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	association
+association	produces	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	predisposes	obesity
+obesity	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	predisposes	obesity
+obesity	process_of	diabetes
+
+quercetin	process_of	obesity
+obesity	process_of	prediabetes
+prediabetes	process_of	diabetes
+
+quercetin	process_of	obesity
+obesity	process_of	diabetes
+
+quercetin	disrupts	inhibition
+inhibition	process_of	diabetes
+
+quercetin	location_of	inhibition
+inhibition	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	process_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	coexists_with	eye_diseases
+eye_diseases	process_of	diabetes
+
+quercetin	treats	damage
+damage	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	process_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	disrupts	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	disrupts	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	disrupts	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	damage
+damage	causes	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	oxidative_stress
+oxidative_stress	affects	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	causes	oxidative_stress
+oxidative_stress	affects	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	isa	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	oxidative_stress
+oxidative_stress	part_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	causes	oxidative_stress
+oxidative_stress	part_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	part_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	damage
+damage	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	association
+association	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	oxidative_stress
+oxidative_stress	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	causes	oxidative_stress
+oxidative_stress	location_of	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	coexists_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	disrupts	inhibition
+inhibition	associated_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	location_of	inhibition
+inhibition	associated_with	diabetic_retinopathy
+diabetic_retinopathy	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	treats	blindness
+blindness	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	treats	blindness
+blindness	process_of	diabetes
+
+quercetin	treats	diabetes
+diabetes	location_of	blindness
+blindness	process_of	diabetes
+
+quercetin	causes	diabetes
+diabetes	location_of	blindness
+blindness	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	process_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	process_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	treats	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	treats	oxidative_stress
+oxidative_stress	affects	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	causes	oxidative_stress
+oxidative_stress	affects	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	isa	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	disrupts	inflammation
+inflammation	part_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	location_of	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	uses	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	uses	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	treats	streptozotocin
+streptozotocin	augments	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	interacts_with	streptozotocin
+streptozotocin	augments	type_1_diabetes
+type_1_diabetes	process_of	diabetes
+
+quercetin	process_of	obesity
+obesity	process_of	association
+association	process_of	diabetes
+
+quercetin	treats	glucose
+glucose	process_of	association
+association	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	obesity
+obesity	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	hypertension
+hypertension	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	hypertension
+hypertension	process_of	diabetes
+
+rhamnose	treats	iptg
+iptg	part_of	glucose
+glucose	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	symptoms
+symptoms	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	disrupts	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	isa	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	associated_with	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	uses	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	compared_with	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	prevents	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	produces	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	predisposes	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	inhibits	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	augments	influenza
+influenza	process_of	diabetes
+
+rhamnose	causes	cells
+cells	uses	hypertrophy
+hypertrophy	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	behaviour
+behaviour	process_of	diabetes
+
+rhamnose	causes	cells
+cells	disrupts	understood
+understood	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	understood
+understood	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	disease
+disease	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	albino
+albino	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	obesity
+obesity	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	disrupts	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	associated_with	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	uses	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	neg_affects	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	interacts_with	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	produces	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	augments	synthesis
+synthesis	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	adaptation
+adaptation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	adaptation
+adaptation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	adaptation
+adaptation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	isa	adaptation
+adaptation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	adaptation
+adaptation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	disrupts	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	isa	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	neg_inhibits	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	interacts_with	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	method_of	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	produces	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	augments	translation
+translation	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	content
+content	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	insulin_resistance
+insulin_resistance	process_of	diabetes
+
+rhamnose	causes	cells
+cells	prevents	insulin_resistance
+insulin_resistance	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	isa	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	interacts_with	attrition
+attrition	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	causes	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	isa	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	neg_affects	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	interacts_with	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	prevents	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	produces	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	augments	strategies
+strategies	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	affects	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	part_of	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	location_of	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	coexists_with	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	associated_with	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	produces	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	augments	response
+response	process_of	diabetes
+
+rhamnose	causes	cells
+cells	process_of	diabetes
+diabetes	process_of	diabetes
+
+rhamnose	causes	cells
+cells	treats	diabetes
+diabetes	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	process_of	obesity
+obesity	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	treats	obesity
+obesity	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	affects	obesity
+obesity	process_of	diabetes
+
+stigmasterol	treats	hip_fracture
+hip_fracture	process_of	diabetes
+
+stigmasterol	affects	hip_fracture
+hip_fracture	process_of	diabetes
+
+stigmasterol	part_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+stigmasterol	location_of	hip_fracture
+hip_fracture	process_of	diabetes
+
+stigmasterol	predisposes	hip_fracture
+hip_fracture	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	process_of	association
+association	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	location_of	association
+association	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	uses	association
+association	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	predisposes	association
+association	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	augments	association
+association	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	process_of	gestational_diabetes_mellitus
+gestational_diabetes_mellitus	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	treats	hypertension
+hypertension	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	process_of	glucose
+glucose	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	disrupts	glucose
+glucose	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	affects	glucose
+glucose	process_of	diabetes
+
+stigmasterol	coexists_with	alloxan
+alloxan	part_of	glucose
+glucose	process_of	diabetes
+
+stigmasterol	interacts_with	alloxan
+alloxan	part_of	glucose
+glucose	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	uses	glucose
+glucose	process_of	diabetes
+
+stigmasterol	coexists_with	alloxan
+alloxan	uses	glucose
+glucose	process_of	diabetes
+
+stigmasterol	interacts_with	alloxan
+alloxan	uses	glucose
+glucose	process_of	diabetes
+
+stigmasterol	process_of	glucose_metabolism
+glucose_metabolism	interacts_with	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	process_of	glucose
+glucose	process_of	diabetes
+
+thiourea	process_of	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	part_of	glucose
+glucose	process_of	diabetes
+
+thiourea	part_of	acetone
+acetone	part_of	glucose
+glucose	process_of	diabetes
+
+thiourea	part_of	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	part_of	glucose
+glucose	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	location_of	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	glucose
+glucose	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	coexists_with	glucose
+glucose	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	uses	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	uses	glucose
+glucose	process_of	diabetes
+
+thiourea	location_of	plasma
+plasma	process_of	potassium
+potassium	process_of	diabetes
+
+thiourea	treats	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	treats	potassium
+potassium	process_of	diabetes
+
+thiourea	part_of	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	part_of	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	part_of	potassium
+potassium	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	part_of	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	potassium
+potassium	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	location_of	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	location_of	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	uses	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	uses	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	interacts_with	potassium
+potassium	process_of	diabetes
+
+thiourea	location_of	chloride
+chloride	location_of	creatinine
+creatinine	process_of	diabetes
+
+thiourea	location_of	urine
+urine	process_of	symptoms
+symptoms	process_of	diabetes
+
+thiourea	part_of	lysis
+lysis	causes	symptoms
+symptoms	process_of	diabetes
+
+thiourea	disrupts	lysis
+lysis	causes	symptoms
+symptoms	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	process_of	diabetes
+
+thiourea	part_of	acetone
+acetone	process_of	diabetes
+
+thiourea	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	process_of	diabetes
+
+thiourea	process_of	diabetes
+
+thiourea	location_of	methanol
+methanol	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	process_of	diabetes
+
+thiourea	part_of	glycerol
+glycerol	isa	development
+development	process_of	diabetes
+
+thiourea	prevents	dysfunction
+dysfunction	process_of	diabetes
+
+thiourea	process_of	influenza
+influenza	process_of	diabetes
+
+thiourea	location_of	trypsin
+trypsin	treats	influenza
+influenza	process_of	diabetes
+
+thiourea	part_of	tris-hcl
+tris-hcl	part_of	influenza
+influenza	process_of	diabetes
+
+thiourea	location_of	tris-hcl
+tris-hcl	part_of	influenza
+influenza	process_of	diabetes
+
+thiourea	part_of	influenza
+influenza	process_of	diabetes
+
+thiourea	interacts_with	cells
+cells	part_of	influenza
+influenza	process_of	diabetes
+
+thiourea	location_of	influenza
+influenza	process_of	diabetes
+
+thiourea	interacts_with	cells
+cells	location_of	influenza
+influenza	process_of	diabetes
+
+thiourea	location_of	trypsin
+trypsin	location_of	influenza
+influenza	process_of	diabetes
+
+thiourea	location_of	methanol
+methanol	inhibits	influenza
+influenza	process_of	diabetes
+
+thiourea	part_of	infiltration
+infiltration	process_of	diabetes
+
+thiourea	process_of	men
+men	process_of	diabetes
+
+thiourea	process_of	transcription
+transcription	process_of	diabetes
+
+thiourea	treats	transcription
+transcription	process_of	diabetes
+
+thiourea	part_of	transcription
+transcription	process_of	diabetes
+
+thiourea	part_of	triton_x-100
+triton_x-100	part_of	transcription
+transcription	process_of	diabetes
+
+thiourea	part_of	tris-hcl
+tris-hcl	part_of	transcription
+transcription	process_of	diabetes
+
+thiourea	location_of	tris-hcl
+tris-hcl	part_of	transcription
+transcription	process_of	diabetes
+
+thiourea	part_of	tris-hcl
+tris-hcl	location_of	transcription
+transcription	process_of	diabetes
+
+thiourea	location_of	tris-hcl
+tris-hcl	location_of	transcription
+transcription	process_of	diabetes
+
+thiourea	location_of	transcription
+transcription	process_of	diabetes
+
+thiourea	location_of	methanol
+methanol	treats	albino
+albino	process_of	diabetes
+
+thiourea	uses	condition
+condition	process_of	diabetes
+
+thiourea	location_of	bicarbonate
+bicarbonate	process_of	synthesis
+synthesis	process_of	diabetes
+
+thiourea	process_of	synthesis
+synthesis	process_of	diabetes
+
+thiourea	treats	synthesis
+synthesis	process_of	diabetes
+
+thiourea	disrupts	synthesis
+synthesis	process_of	diabetes
+
+thiourea	location_of	methanol
+methanol	isa	synthesis
+synthesis	process_of	diabetes
+
+thiourea	interacts_with	cells
+cells	isa	synthesis
+synthesis	process_of	diabetes
+
